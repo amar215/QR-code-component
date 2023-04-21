@@ -1,4 +1,4 @@
-Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Live Site URL: ak-qrcodecomponent.netlify.app
 
 ### Built with
 
