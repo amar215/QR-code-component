@@ -1,5 +1,5 @@
-Live Site URL: ak-qrcodecomponent.netlify.app
-
+Live Site URL: [ak-qrcodecomponent.netlify.app
+](https://ak-qrcodecomponent.netlify.app/)
 ### Built with
 
 - Semantic HTML5 markup
